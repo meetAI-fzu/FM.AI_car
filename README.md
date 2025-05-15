@@ -1,3 +1,4 @@
 # FM.ai_car
 大家好！我们是来自福州大学的meetAI实验室的成员，该文档展示的小车是我们在2025年的2050学习节期间展示的一项作品，我们将其开源出来，希望大家能够从中了解到一些单片机相关的知识，当然，最重要的还是希望大家可以拿到一个好玩的小桌宠，也就是我们的初衷——为大家提供充足的情绪价值，我们后续会不断地优化这辆小车，如果您愿意的话，点一下关注，和我们一起见证这辆小车的进步吧！ 
-   详情请阅读https://mcnyiyfhem6s.feishu.cn/wiki/VW5Pw1rQfiIWuSkVs4gckQyrnjb?from=from_copylink
+
+详情请阅读https://mcnyiyfhem6s.feishu.cn/wiki/VW5Pw1rQfiIWuSkVs4gckQyrnjb?from=from_copylink
